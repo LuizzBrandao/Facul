@@ -18,9 +18,18 @@ namespace AlunoAPI.Controllers
         [HttpPost]
         public IActionResult Matricular(Aluno aluno)
         {
-            _service.Matricular(aluno);
-            return Ok("Aluno matriculado");
+            try
+            {
+                _service.Matricular(aluno);
+                return Ok("Aluno matriculado");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
+
+
 
         [HttpGet]
         public IActionResult Listar()

@@ -35,3 +35,4 @@ C:\Users\Luiz\source\repos\Facul\Facul\obj\Debug\net10.0\ref\Facul.dll
 C:\Users\Luiz\source\repos\Facul\Facul\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Luiz\source\repos\Facul\Facul\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Luiz\source\repos\Facul\Facul\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luiz\source\repos\Facul\Facul\obj\Debug\net10.0\Facul.sourcelink.json
