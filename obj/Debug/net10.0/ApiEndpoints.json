@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AlunoAPI.Controllers.AlunoController",
+    "Method": "Matricular",
+    "RelativePath": "api/alunos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "Facul.Domain.Entities.Aluno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlunoAPI.Controllers.AlunoController",
+    "Method": "Listar",
+    "RelativePath": "api/alunos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
